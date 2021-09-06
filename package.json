@@ -1,0 +1,14 @@
+{
+  "name": "domeno",
+  "version": "1.0.0",
+  "description": "basic algorithms",
+  "main": "index.js",
+  "type": "module",
+  "author": "Dato Khojava",
+  "license": "MIT",
+  "dependencies": {},
+  "scripts": {},
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
