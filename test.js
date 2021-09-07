@@ -1,3 +1,3 @@
-import recursion from "./recursion.js";
+import recursionSum from "./recursionSum.js";
 
-console.log(recursion(3));
+console.log(recursionSum([1, 2, 3]));
